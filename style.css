@@ -245,25 +245,183 @@
      background: #ffffff;
 
  }
-.buyer-img{
-    
-}
 
+ .buyer-img {
+     position: absolute;
+     width: 466px;
+     height: 494px;
+     top: 75px;
+     left: 74px;
+     border-top-right-radius: 70px;
+     border-bottom-right-radius: 70px;
+     border-bottom-left-radius: 70px;
 
+ }
 
+ .long-line {
+     position: absolute;
+     width: 381px;
+     height: 1px;
+     top: 74px;
+     left: 625px;
+     background: #C9D3D9;
+ }
 
+ .buyer-agents-title {
+     position: absolute;
+     width: 164;
+     height: 24;
+     top: 108px;
+     left: 625px;
+     font-family: Roboto;
+     font-weight: 400;
+     font-size: 16px;
+     line-height: 24px;
+     letter-spacing: 2px;
+     text-transform: uppercase;
+     color: #574D9C;
+ }
 
+ .buyer-title {
+     position: absolute;
+     width: 367px;
+     height: 104px;
+     font-family: Roboto;
+     top: 229px;
+     left: 625px;
+     font-weight: 400;
+     font-size: 40px;
+     line-height: 52px;
+     color: #363B3D;
+ }
 
+ .buyer-txt {
+     position: absolute;
+     width: 381px;
+     height: 120px;
+     top: 365px;
+     left: 625px;
+     font-family: Roboto;
+     font-weight: 400;
+     font-size: 21px;
+     line-height: 30px;
+     color: #636769;
+ }
+
+ .buyer-button {
+     position: absolute;
+     width: 223px;
+     height: 54px;
+     top: 527px;
+     left: 649px;
+     font-family: Roboto;
+     font-weight: 400;
+     font-size: 18px;
+     line-height: 30px;
+     letter-spacing: 0.5px;
+     background: var(--basicColor);
+     color: #ffffff;
+     border-radius: 5px
+ }
+
+ .very-long-line {
+     position: absolute;
+     width: 932;
+     height: 1;
+     top: 654px;
+     left: 74px;
+     background: #C9D3D9;
+ }
+
+ .icon-border1 {
+     position: absolute;
+     top: 720px;
+     left: 151px;
+     width: 70px;
+     height: 70px;
+     background: var(--basicColor);
+ }
+
+ .icon-border2 {
+     position: absolute;
+     top: 720px;
+     left: 505px;
+     width: 70px;
+     height: 70px;
+     background: var(--basicColor)
+ }
+
+ .icon-border3 {
+     position: absolute;
+     top: 720px;
+     left: 876px;
+     width: 70px;
+     height: 70px;
+     background: var(--basicColor)
+ }
+
+ .icon1 {
+     position: absolute;
+     top: 738px;
+     left: 176px;
+ }
+
+ .icon2 {
+     position: absolute;
+     top: 737px;
+     left: 524px;
+ }
+
+ .icon3 {
+     position: absolute;
+     top: 734px;
+     left: 893px;
+ }
+
+ .icon-txt {
+     font-family: Roboto;
+     font-weight: 400;
+     font-size: 14px;
+     line-height: 19px;
+     letter-spacing: 2px;
+     text-align: center;
+     text-transform: uppercase;
+ }
+
+ .icon-txt1 {
+     position: absolute;
+     width: 209;
+     height: 19;
+     top: 812px;
+     left: 81px;
+
+ }
+
+ .icon-txt2 {
+    position: absolute;
+     width: 190;
+     height: 38;
+     top: 813px;
+     left: 445px;
+ }
+
+ .icon-txt3 {
+    position: absolute;
+     width: 202;
+     height: 19;
+     top: 812px;
+     left: 815px;
+
+ }
 
 
 
 
  .good-company {
-    position: absolute;
+     position: absolute;
      width: 1080px;
      height: 1014px;
      top: 2122px;
      left: 60px;
      background: #E3E6F9;
  }
-
