@@ -398,7 +398,7 @@
  }
 
  .icon-txt2 {
-    position: absolute;
+     position: absolute;
      width: 190;
      height: 38;
      top: 813px;
@@ -406,16 +406,13 @@
  }
 
  .icon-txt3 {
-    position: absolute;
+     position: absolute;
      width: 202;
      height: 19;
      top: 812px;
      left: 815px;
 
  }
-
-
-
 
  .good-company {
      position: absolute;
@@ -424,4 +421,171 @@
      top: 2122px;
      left: 60px;
      background: #E3E6F9;
+ }
+
+ .good-title {
+     position: absolute;
+     top: 72px;
+     left: 261px;
+     font-family: Roboto;
+     font-weight: 400;
+     font-size: 51px;
+     line-height: 64px;
+     letter-spacing: 0.5px;
+     text-align: center;
+     color: #323A5B;
+ }
+
+ .good-txt {
+     position: absolute;
+     width: 436px;
+     height: 63px;
+     top: 209px;
+     left: 123px;
+     font-family: Roboto;
+     font-weight: 400;
+     font-size: 26px;
+     line-height: 42px;
+     text-align: center;
+     color: #1E2224;
+ }
+
+ .portret {
+     position: absolute;
+     top: 388px;
+     left: 173px;
+     border-radius: 100px;
+
+ }
+
+
+ .edgar {
+     position: absolute;
+     width: 129px;
+     height: 17px;
+     top: 401px;
+     left: 259px;
+     font-family: Roboto;
+     font-weight: 400;
+     font-size: 11px;
+     line-height: 16.5px;
+     letter-spacing: 2px;
+     text-transform: uppercase;
+     color: #636769;
+ }
+
+ .exp {
+     position: absolute;
+     width: 96px;
+     top: 417px;
+     left: 259px;
+     font-family: Roboto;
+     font-weight: 400;
+     font-size: 20px;
+     line-height: 30px;
+     color: #636769;
+ }
+
+ .good-img {
+     position: absolute;
+     top: 204px;
+     left: 540px;
+     border-radius: 20px;
+ }
+
+ .good-line {
+     position: absolute;
+     width: 439px;
+     height: 1px;
+     top: 506px;
+     left: 61px;
+     color: #C9C9C9;
+ }
+
+ .good-agents-txt {
+     position: absolute;
+     width: 425px;
+     height: 60px;
+     top: 551px;
+     left: 68px;
+     color: #363B3D;
+     font-family: Roboto;
+     font-weight: 400;
+     font-size: 18px;
+     line-height: 30px;
+     text-align: center;
+
+ }
+
+ .white-button {
+     position: absolute;
+     width: 148px;
+     height: 56px;
+     top: 639px;
+     left: 207px;
+     border-radius: 5px;
+     border: 1px solid #574D9C;
+     font-family: Roboto;
+     font-weight: 400;
+     font-size: 18px;
+     line-height: 30px;
+     letter-spacing: 0.5px;
+     padding: 13px 25px;
+     color: #574D9C;
+     background: #FFFFFF;
+ }
+
+ .good-long-line {
+     width: 958px;
+     height: 1px;
+     top: 2885px;
+     left: 121px;
+     color: #B2A9EF;
+ }
+
+ .number {
+     height: 105px;
+     font-family: Roboto;
+     font-weight: 400;
+     font-size: 70px;
+     line-height: 104px;
+     color: #323A5B;
+     position: absolute;
+     top: 804px;
+ }
+
+ .number1 {
+     left: 93px;
+ }
+
+ .number2 {
+     left: 425px;
+ }
+
+ .number3 {
+     left: 807px;
+ }
+
+ .number-txt {
+     position: absolute;
+     height: 19px;
+     font-family: Roboto;
+     font-weight: 400;
+     font-size: 14px;
+     line-height: 18.9px;
+     letter-spacing: 2px;
+     text-transform: uppercase;
+     top: 907px;
+ }
+
+ .number-txt1 {
+     left: 115px;
+ }
+
+ .number-txt2 {
+     left: 521px;
+ }
+
+ .number-txt3 {
+     left: 832px;
  }
