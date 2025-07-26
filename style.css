@@ -439,9 +439,9 @@
  .good-txt {
      position: absolute;
      width: 436px;
-     height: 63px;
+     height: 168px;
      top: 209px;
-     left: 123px;
+     left: 63px;
      font-family: Roboto;
      font-weight: 400;
      font-size: 26px;
@@ -499,7 +499,7 @@
      height: 1px;
      top: 506px;
      left: 61px;
-     color: #C9C9C9;
+     background: #C9C9C9;
  }
 
  .good-agents-txt {
@@ -519,7 +519,7 @@
 
  .white-button {
      position: absolute;
-     width: 148px;
+     width: 150px;
      height: 56px;
      top: 639px;
      left: 207px;
@@ -536,11 +536,12 @@
  }
 
  .good-long-line {
+     position: absolute;
      width: 958px;
      height: 1px;
-     top: 2885px;
-     left: 121px;
-     color: #B2A9EF;
+     top: 763px;
+     left: 61px;
+     background: #B2A9EF;
  }
 
  .number {
@@ -589,3 +590,133 @@
  .number-txt3 {
      left: 832px;
  }
+
+ .our-solutions {
+     position: absolute;
+     width: 1200px;
+     height: 1111px;
+     top: 3136px;
+     background: #F5F4F2;
+
+ }
+
+ .our-solutions-purple {
+     position: absolute;
+     width: 1080px;
+     height: 1111px;
+     left: 60px;
+     border-bottom-right-radius: 19px;
+     border-bottom-left-radius: 19px;
+     background: #574D9C;
+ }
+
+ .our-title {
+     position: absolute;
+     width: 314px;
+     height: 65px;
+     top: 72px;
+     left: 383px;
+     font-family: Roboto;
+     font-weight: 400;
+     font-size: 51px;
+     line-height: 64px;
+     text-align: center;
+     color: #ffffff;
+ }
+
+ .our-buttons {
+     position: absolute;
+     top: 176px;
+     height: 60px;
+     font-family: Roboto;
+     font-weight: 400;
+     font-size: 16px;
+     line-height: 30px;
+     letter-spacing: 2px;
+     text-transform: uppercase;
+     padding: 15px 31px;
+     border-radius: 6.8px;
+ }
+
+ .our-purple {
+     border: 1px solid #ffffff;
+     background: #574D9C;
+     color: #ffffff;
+ }
+
+ .our-button1 {
+     border: 1px solid #6157AB;
+     background: #ffffff;
+     color: #574D9C;
+     left: 61px;
+ }
+
+ .our-button2 {
+     left: 428px;
+ }
+
+ .our-button3 {
+     left: 723px;
+ }
+
+ .our-field {
+     position: absolute;
+     width: 752px;
+     height: 643px;
+     top: 324px;
+     left: 164px;
+     border-radius: 12px;
+     background: #FFFFFF;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ .arrow-left{
+    position: absolute;
+    top: 334px;
+    left: 20px;
+ }
+ .arrow-right{
+    position: absolute;
+    top: 334px;
+    left: 966px;
+ }
+ 
