@@ -20,7 +20,7 @@
 
  .conteiner {
      width: 1200px;
-     height: 5000px;
+     height: 5433px;
      margin: 0 auto;
      background: #ffffff;
      position: relative;
@@ -669,54 +669,382 @@
      background: #FFFFFF;
  }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- .arrow-left{
-    position: absolute;
-    top: 334px;
-    left: 20px;
+ .our-photo {
+     position: absolute;
+     top: 32px;
+     left: 32px;
  }
- .arrow-right{
-    position: absolute;
-    top: 334px;
-    left: 966px;
+
+ .circle {
+     position: absolute;
+     width: 40px;
+     height: 40px;
+     top: 42px;
+     left: 42px;
+     border-radius: 100px;
+     background: #7569CF;
  }
- 
+
+ .r {
+     position: absolute;
+     top: 54px;
+     left: 55px;
+ }
+
+ .gray-rectangle {
+     position: absolute;
+     width: 127px;
+     height: 29px;
+     top: 178px;
+     left: 229px;
+     background: #333;
+ }
+
+ .orlando {
+     position: absolute;
+     width: 94px;
+     height: 17px;
+     top: 182px;
+     left: 247px;
+     font-family: Roboto;
+     font-weight: 400;
+     font-size: 11px;
+     line-height: 16.5px;
+     letter-spacing: 2px;
+     color: #ECEAF8;
+ }
+
+ .our-info {
+     position: absolute;
+     width: 324px;
+     height: 397px;
+     top: 207px;
+     left: 32px;
+     background: #E7ECEE45;
+ }
+
+ .our-lines {
+     position: absolute;
+     width: 80px;
+     height: 1px;
+     top: 43px;
+     background: #C7C1F3;
+ }
+
+ .our-line1 {
+     left: 24px;
+ }
+
+ .our-line2 {
+     left: 228px;
+ }
+
+ .home {
+     position: absolute;
+     width: 111;
+     height: 30;
+     top: 28px;
+     left: 110px;
+     font-family: Roboto;
+     font-weight: 400;
+     font-size: 11px;
+     line-height: 30px;
+     letter-spacing: 1px;
+     text-transform: uppercase;
+     color: #363B3D;
+ }
+
+ .r-protection {
+     position: absolute;
+     top: 84px;
+     left: 204px;
+ }
+
+ .our-long-lines {
+     position: absolute;
+     width: 285px;
+     height: 1px;
+ }
+
+ .our-long-line-l {
+     top: 175px;
+     left: 24px;
+     background: #C7C1F3;
+ }
+
+ .the {
+     position: absolute;
+     left: 24px;
+     width: 45px;
+     height: 60px;
+     font-family: Roboto;
+     font-weight: 400;
+     font-size: 11px;
+     line-height: 30px;
+     color: #363B3D;
+ }
+
+ .buyer {
+     top: 205px;
+ }
+
+ .seller {
+     top: 297px;
+ }
+
+ .got {
+     position: absolute;
+     left: 118px;
+     width: 180px;
+     height: 44px;
+     font-family: Roboto;
+     font-weight: 400;
+     font-size: 16px;
+     line-height: 21px;
+     color: #636769;
+ }
+
+ .buy {
+     top: 205px;
+ }
+
+ .sell {
+     top: 297px;
+ }
+
+ .turn {
+     position: absolute;
+     width: 266px;
+     height: 71px;
+     top: 151px;
+     left: 404px;
+     font-family: Roboto;
+     font-weight: 400;
+     font-size: 32px;
+     line-height: 35px;
+     color: #2B2B2B;
+ }
+
+ .turn-txt {
+     position: absolute;
+     width: 285px;
+     height: 90px;
+     top: 259px;
+     left: 404px;
+     font-family: Roboto;
+     font-weight: 400;
+     font-size: 18px;
+     line-height: 30px;
+     color: #636769;
+ }
+
+ .turn-button {
+     position: absolute;
+     width: 135px;
+     height: 54px;
+     top: 415px;
+     left: 404px;
+     border-color: #7569CF;
+     border-style: solid;
+     border-radius: 5px;
+     font-family: Roboto;
+     font-weight: 400;
+     font-size: 16px;
+     line-height: 30px;
+     letter-spacing: 0.5px;
+     color: #FFFFFF;
+     background: #7569CF;
+ }
+
+ .our-long-line-r {
+     top: 532px;
+     left: 404px;
+     background: #9AA6AC;
+ }
+
+ .book {
+     position: absolute;
+     top: 558px;
+     left: 404px;
+ }
+
+ .read {
+     position: absolute;
+     top: 558px;
+     left: 439px;
+     font-family: Roboto;
+     font-weight: 400;
+     font-size: 16px;
+     line-height: 30px;
+     color: #6157AB;
+ }
+
+ .arrow-left {
+     position: absolute;
+     top: 334px;
+     left: 20px;
+ }
+
+ .arrow-right {
+     position: absolute;
+     top: 334px;
+     left: 966px;
+ }
+
+ .dots {
+     position: absolute;
+     width: 16px;
+     height: 16px;
+     top: 1007px;
+     border-radius: 100px;
+     border: 1px solid #ffffff
+ }
+
+ .dot1 {
+     left: 504px;
+     background: #ffffff;
+ }
+
+ .dot2 {
+     left: 534px;
+     background: none;
+ }
+
+ .dot3 {
+     left: 560px;
+     background: none;
+ }
+
+ .with-phone {
+     position: absolute;
+     width: 1200px;
+     height: 552px;
+     top: 4247px;
+     background: #F5F4F2;
+ }
+
+ .phone-title {
+     position: absolute;
+     width: 405px;
+     height: 96px;
+     top: 118px;
+     left: 133px;
+     font-family: Roboto;
+     font-weight: 400;
+     font-size: 40px;
+     line-height: 48px;
+     text-align: center;
+     color: #363B3D;
+ }
+
+ .phone-txt {
+     position: absolute;
+     width: 391px;
+     height: 60px;
+     top: 249px;
+     left: 140px;
+     font-family: Roboto;
+     font-weight: 400;
+     font-size: 20px;
+     line-height: 30px;
+     text-align: center;
+     color: #363B3D;
+ }
+
+ .appstore {
+     position: absolute;
+     width: 234px;
+     height: 64px;
+     top: 354px;
+     left: 218px;
+     border-radius: 7px;
+     background: #000;
+ }
+
+ .app-store {
+     position: absolute;
+     top: 363px;
+     left: 262px;
+ }
+
+ .phone {
+     position: absolute;
+     top: 83px;
+     left: 628px;
+ }
+
+ .footer {
+     position: absolute;
+     top: 4799px;
+     background: #050302;
+     height: 633px;
+     width: 1200px;
+ }
+
+ .ribbon {
+     position: absolute;
+     top: 60px;
+     left: 60px;
+ }
+
+ .link-title {
+     position: absolute;
+
+     top: 59px;
+     font-family: Roboto;
+     font-weight: 400;
+     font-size: 14px;
+     line-height: 30px;
+     letter-spacing: 1px;
+     text-transform: uppercase;
+     color: #FFFFFF;
+ }
+
+ .agents-title {
+     left: 246px;
+     width: 62px;
+ }
+
+ .link-div {
+     position: absolute;
+     display: flex;
+     top: 109px;
+     flex-direction: column;
+     gap: 10px;
+ }
+
+ .agents {
+     width: 109px;
+     height: 150px;
+     left: 246px;
+
+ }
+
+ .link {
+     height: 30px;
+     font-family: Roboto;
+     font-weight: 400;
+     font-size: 18px;
+     line-height: 30px;
+     color: #ffffff;
+     text-decoration: none;
+ }
+
+ .agent {
+     width: 109px;
+ }
+
+ .homebuyers-title {
+     left: 449px;
+     width: 101px;
+ }
+
+ .homebuyers{
+    left: 449px;
+    height: 190px;
+    width: 164px;
+ }
+
+ .homebuyer{
+    width: 165px;
+ }
