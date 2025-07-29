@@ -1030,21 +1030,108 @@
      text-decoration: none;
  }
 
- .agent {
-     width: 109px;
- }
 
  .homebuyers-title {
      left: 449px;
      width: 101px;
  }
 
- .homebuyers{
-    left: 449px;
-    height: 190px;
-    width: 164px;
+ .homebuyers {
+     left: 449px;
+     height: 190px;
+     width: 165px;
  }
 
- .homebuyer{
-    width: 165px;
+ .partners-title {
+     left: 642px;
+     width: 76px;
  }
+
+ .partners {
+     left: 642px;
+     height: 90px;
+     width: 76px;
+ }
+
+ .resources-title {
+     left: 794px;
+     width: 89px;
+ }
+
+ .resources {
+     left: 794px;
+     height: 230px;
+     width: 106px;
+ }
+
+ .about-title {
+     left: 967px;
+     width: 53px;
+ }
+
+ .about {
+     left: 967px;
+     height: 150px;
+     width: 65px;
+ }
+
+ .bbb {
+     position: absolute;
+     top: 452px;
+     left: 60px;
+ }
+
+ .review {
+     position: absolute;
+     top: 522px;
+     left: 60px;
+     font-family: Roboto;
+     font-weight: 400;
+     font-size: 16px;
+     line-height: 30px;
+     color: #FFFFFF;
+     text-decoration: none;
+ }
+
+ .footer-links{
+    position: absolute;
+     top: 453px;
+     font-family: Roboto;
+     font-weight: 400;
+     font-size: 16px;
+     line-height: 30px;
+     color: #FFFFFF;
+     text-decoration: none;
+ }
+
+ .terms{
+    left: 433px;
+ }
+
+ .privacy{
+    left: 494px;
+ }
+
+.copyright{
+     position: absolute;
+     top: 483px;
+     left: 433px;
+     font-family: Roboto;
+     font-weight: 400;
+     font-size: 14px;
+     line-height: 30px;
+     color: #FFFFFF;
+}
+
+.soc{
+    position: absolute;
+    top: 459px;
+}
+
+.facebook{
+    left: 1029px;
+}
+
+.inst{
+    left: 1103px;
+}
