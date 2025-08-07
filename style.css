@@ -1448,7 +1448,7 @@
  @media screen and (max-width:767px) {
      .conteiner {
          width: 300px;
-         height: 1400px;
+         height: 2000px;
      }
 
      .header {
@@ -1559,7 +1559,7 @@
      }
 
      .main-button {
-        margin-top: 10px;
+         margin-top: 10px;
          width: 90px;
          height: 20px;
          font-size: 8px;
@@ -1579,7 +1579,7 @@
      .companies {
          gap: 9.75px;
          margin-top: 15px;
-         
+
      }
 
      .companies-title {
@@ -1589,17 +1589,17 @@
          line-height: 8px;
      }
 
-      .companies-imgs {
-     width: 582px;
-     height: 60px;
- }
+     .companies-imgs {
+         width: 582px;
+         height: 60px;
+     }
 
      .companies-img {
          width: 50px;
      }
 
      .section {
-         height: 556.75px;
+         height: 643px;
      }
 
      .who-we-empower {
@@ -1620,7 +1620,7 @@
      }
 
      .buttons {
-        width: 55px;
+         width: 55px;
          height: 25px;
          font-size: 8px;
          line-height: 8px;
@@ -1685,8 +1685,8 @@
 
      .buyer-button {
          width: 70px;
-         height:20px;
-         top: 175px;
+         height: 20px;
+         top: 178px;
          left: 155px;
          font-size: 8px;
          line-height: 8px;
@@ -1695,8 +1695,8 @@
 
      .very-long-line {
          width: 230px;
-         height: 0.7px;
-         top: 200px;
+         height: 0.8px;
+         top: 204px;
          left: 20px;
      }
 
@@ -1722,19 +1722,19 @@
      }
 
      .icon1 {
-        width: 6px;
+         width: 6px;
          top: 214px;
          left: 43px;
      }
 
      .icon2 {
-        width: 9px;
+         width: 9px;
          top: 214px;
          left: 135px;
      }
 
      .icon3 {
-        width: 10px;
+         width: 10px;
          top: 213px;
          left: 223px;
      }
@@ -1767,46 +1767,47 @@
 
      .good-company {
          width: 270px;
-         height: 253.5px;
+         height: 303.5px;
          top: 660.5px;
          left: 15px;
      }
 
      .good-title {
          top: 18px;
-         left: 65.25px;
-         font-size: 20.4px;
-         line-height: 25.6px;
+         left: 25px;
+         font-size: 20px;
+         line-height: 14px;
      }
 
      .good-txt {
          width: 109px;
          height: 42px;
-         top: 52.25px;
+         top: 45px;
          left: 15.75px;
          font-size: 10.4px;
-         line-height: 16.8px;
+         line-height: 14.5px;
      }
 
      .portret {
-         top: 97px;
-         left: 43.25px;
+         top: 147px;
+         left: 25px;
+         width: 27px;
      }
 
      .edgar {
-         width: 32.25px;
+         width: 80px;
          height: 4.25px;
-         top: 100.25px;
-         left: 64.75px;
-         font-size: 4.4px;
+         top: 150.25px;
+         left: 60px;
+         font-size: 5px;
          line-height: 6.6px;
      }
 
      .exp {
-         width: 24px;
+         width: 70px;
          height: 7.5px;
-         top: 104.25px;
-         left: 64.75px;
+         top: 160px;
+         left: 63px;
          font-size: 8px;
          line-height: 12px;
      }
@@ -1814,29 +1815,30 @@
      .good-img {
          top: 51px;
          left: 135px;
+         width: 119.75px;
      }
 
      .good-line {
          width: 109.75px;
-         height: 0.25px;
-         top: 126.5px;
+         height: 1px;
+         top: 176.5px;
          left: 15.25px;
      }
 
      .good-agents-txt {
-         width: 106.25px;
+         width: 155px;
          height: 15px;
-         top: 137.75px;
+         top: 187.75px;
          left: 17px;
-         font-size: 7.2px;
-         line-height: 12px;
+         font-size: 9px;
+         line-height: 14px;
      }
 
      .white-button {
-         width: 37.5px;
-         height: 14px;
-         top: 159.75px;
-         left: 51.75px;
+         width: 60px;
+         height: 25px;
+         top: 200px;
+         left: 190px;
          border: 1px solid #574D9C;
          font-size: 7.2px;
          line-height: 12px;
@@ -1844,17 +1846,17 @@
      }
 
      .good-long-line {
-         width: 239.5px;
-         height: 0.25px;
-         top: 190.75px;
+         width: 245px;
+         height: 0.7px;
+         top: 240.75px;
          left: 15.25px;
      }
 
      .number {
          height: 26.25px;
-         font-size: 28px;
+         font-size: 20px;
          line-height: 41.6px;
-         top: 201px;
+         top: 244px;
      }
 
      .number1 {
@@ -1867,31 +1869,35 @@
 
      .number3 {
          left: 201.75px;
+         width: 70px
      }
 
      .number-txt {
          height: 4.75px;
-         font-size: 5.6px;
+         font-size: 7px;
          line-height: 7.56px;
-         top: 226.75px;
+         top: 279px;
+         text-align: center;
      }
 
      .number-txt1 {
-         left: 28.75px;
+         left: 20px;
+         width: 70px;
      }
 
      .number-txt2 {
-         left: 130.25px;
+         left: 120px;
      }
 
      .number-txt3 {
-         left: 208px;
+         left: 190px;
+
      }
 
      .our-solutions {
          width: 300px;
          height: 277.75px;
-         top: 784px;
+         top: 964px;
      }
 
      .our-solutions-purple {
@@ -1901,20 +1907,20 @@
      }
 
      .our-title {
-         width: 100px;
+         width: 200px;
          height: 16.25px;
-         top: 18px;
-         left: 95.75px;
-         font-size: 20.4px;
+         top: 10px;
+         left: 40px;
+         font-size: 21px;
          line-height: 25.6px;
      }
 
      .our-buttons {
          top: 44px;
-         height: 15px;
-         font-size: 6.4px;
-         line-height: 12px;
-         padding: 3.75px 7.75px;
+         height: 30px;
+         font-size: 8px;
+         line-height: 10px;
+         padding: 1px 2px;
      }
 
      .our-purple {
@@ -1923,108 +1929,115 @@
 
      .our-button1 {
          border: 1px solid #6157AB;
-         left: 15.25px;
+         left: 3px;
+         width: 95px;
      }
 
      .our-button2 {
-         left: 107px;
+         left: 100px;
+         width: 75px;
      }
 
      .our-button3 {
-         left: 180.75px;
+         left: 177px;
+         width: 88px;
      }
 
      .our-field {
-         width: 188px;
-         height: 160.75px;
+         width: 200px;
+         height: 178px;
          top: 81px;
-         left: 41px;
+         left: 35px;
      }
 
      .our-photo {
          top: 8px;
          left: 8px;
+         width: 87px;
      }
 
      .circle {
-         width: 10px;
-         height: 10px;
+         width: 13px;
+         height: 13px;
          top: 10.5px;
          left: 10.5px;
      }
 
      .r {
          top: 13.5px;
-         left: 13.75px;
+         left: 14.5px;
+         width: 5.5px;
      }
 
      .gray-rectangle {
-         width: 31.75px;
-         height: 7.25px;
-         top: 44.5px;
-         left: 57.25px;
+         width: 44px;
+         height: 8px;
+         top: 47px;
+         left: 51px;
      }
 
      .orlando {
-         width: 23.5px;
-         height: 4.25px;
-         top: 45.5px;
-         left: 61.75px;
-         font-size: 4.4px;
-         line-height: 6.6px;
+         width: 70px;
+         height: 6px;
+         top: 48px;
+         left: 52px;
+         font-size: 3.5px;
+         line-height: 5px;
      }
 
      .our-info {
-         width: 81px;
-         height: 99.25px;
-         top: 51.75px;
+         width: 87px;
+         height: 115px;
+         top: 55px;
          left: 8px;
      }
 
      .our-lines {
-         width: 20px;
-         height: 0.25px;
-         top: 10.75px;
+         width: 18px;
+         height: 0.5px;
+         top: 9px;
      }
 
      .our-line1 {
-         left: 6px;
+         left: 2.5px;
      }
 
      .our-line2 {
-         left: 57px;
+         left: 67px;
      }
 
      .home {
-         width: 27.75px;
+         width: 50px;
          height: 7.5px;
-         top: 7px;
-         left: 27.5px;
-         font-size: 4.4px;
+         top: 4px;
+         left: 24px;
+         font-size: 4px;
          line-height: 12px;
+         letter-spacing: 0.5px;
      }
 
      .r-protection {
-         top: 21px;
+         top: 16px;
          left: 51px;
+         width: 32px;
      }
 
      .our-long-lines {
-         width: 71.25px;
-         height: 0.25px;
+         width: 77px;
+         height: 0.5px;
      }
 
      .our-long-line-l {
          top: 43.75px;
-         left: 6px;
+         left: 4px;
      }
 
      .the {
          width: 11.25px;
          height: 15px;
          left: 6px;
-         font-size: 4.4px;
-         line-height: 12px;
+         font-size: 7px;
+         line-height: 10px;
      }
 
      .buyer {
@@ -2032,11 +2045,11 @@
      }
 
      .seller {
-         top: 74.25px;
+         top: 85px;
      }
 
      .got {
-         width: 45px;
+         width: 55px;
          height: 11px;
          left: 29.5px;
          font-size: 6.4px;
@@ -2048,74 +2061,79 @@
      }
 
      .sell {
-         top: 74.25px;
+         top: 85px;
      }
 
      .turn {
-         width: 66.5px;
+         width: 80px;
          height: 17.75px;
-         top: 37.75px;
-         left: 101px;
-         font-size: 12.8px;
+         top: 10px;
+         left: 110px;
+         font-size: 14px;
          line-height: 14px;
      }
 
      .turn-txt {
-         width: 71.25px;
+         width: 80px;
          height: 22.5px;
-         top: 64.75px;
-         left: 101px;
-         font-size: 7.2px;
-         line-height: 12px;
+         top: 49px;
+         left: 110px;
+         font-size: 8px;
+         line-height: 10.5px;
      }
 
      .turn-button {
-         width: 33.75px;
-         height: 13.5px;
-         top: 103.75px;
-         left: 101px;
+         width: 50px;
+         height: 18px;
+         top: 111px;
+         left: 123px;
          border-color: #7569CF;
          border-style: solid;
-         font-size: 6.4px;
+         font-size: 8px;
          line-height: 12px;
      }
 
      .our-long-line-r {
-         top: 133px;
-         left: 101px;
+         top: 140px;
+         left: 110px;
      }
 
      .book {
-         top: 139.5px;
-         left: 101px;
+         top: 150px;
+         left: 108px;
+         width: 12px;
      }
 
      .read {
-         top: 139.5px;
-         left: 109.75px;
-         font-size: 6.4px;
-         line-height: 12px;
+        width: 60px;
+         top: 151px;
+         left: 121px;
+         font-size: 7.5px;
+         line-height: 8px;
+         text-align: center;
      }
 
      .arrow-left {
          top: 83.5px;
-         left: 5px;
+         left: 4px;
+         width: 28px;
      }
 
      .arrow-right {
          top: 83.5px;
-         left: 241.5px;
+         left: 238px;
+         width: 28px;
      }
 
      .dots {
-         width: 4px;
-         height: 4px;
-         top: 251.75px;
-         border: 1px solid #ffffff;
+         width: 6px;
+         height: 6px;
+         top: 263px;
+         border: 0.5px solid #ffffff;
      }
 
      .dot1 {
-         left: 126px;
+         left: 123px;
      }
 
      .dot2 {
@@ -2123,29 +2141,29 @@
      }
 
      .dot3 {
-         left: 140px;
+         left: 144px;
      }
 
      .with-phone {
          width: 300px;
          height: 138px;
-         top: 1061.75px;
+         top: 1241.75px;
      }
 
      .phone-title {
-         width: 101.25px;
+         width: 140px;
          height: 24px;
-         top: 29.5px;
-         left: 33.25px;
-         font-size: 16px;
-         line-height: 19.2px;
+         top: 15px;
+         left: 13.25px;
+         font-size: 15px;
+         line-height: 17px;
      }
 
      .phone-txt {
-         width: 97.75px;
+         width: 135px;
          height: 15px;
          top: 62.25px;
-         left: 35px;
+         left: 15px;
          font-size: 8px;
          line-height: 12px;
      }
@@ -2153,22 +2171,24 @@
      .appstore {
          width: 58.5px;
          height: 16px;
-         top: 88.5px;
-         left: 54.5px;
+         top: 110px;
+         left: 49.5px;
      }
 
      .app-store {
-         top: 90.75px;
-         left: 65.5px;
+         top: 112px;
+         left: 60.5px;
+         width: 40px;
      }
 
      .phone {
-         top: 20.75px;
+         top: 7.5px;
          left: 157px;
+         width: 125px;
      }
 
      .footer {
-         top: 1199.75px;
+         top: 1379.75px;
          height: 158.25px;
          width: 300px;
      }
@@ -2176,10 +2196,11 @@
      .ribbon {
          top: 15px;
          left: 15px;
+         width: 40px;
      }
 
      .link-title {
-         top: 14.75px;
+         top: 12px;
          font-size: 5.6px;
          line-height: 12px;
      }
@@ -2190,63 +2211,63 @@
      }
 
      .link-div {
-         top: 27.25px;
-         gap: 2.5px;
+         top: 25.5px;
+         gap: 4.5px;
      }
 
      .agents {
-         width: 27.25px;
+         width: 40px;
          height: 37.5px;
          left: 61.5px;
      }
 
      .link {
          height: 7.5px;
-         font-size: 7.2px;
+         font-size: 6.5px;
          line-height: 12px;
          text-decoration: none;
      }
 
      .homebuyers-title {
-         left: 112.25px;
+         left: 105px;
          width: 25.25px;
      }
 
      .homebuyers {
-         left: 112.25px;
+         left: 105px;
          height: 47.5px;
-         width: 41.25px;
+         width: 60px;
      }
 
      .partners-title {
-         left: 160.5px;
+         left: 165.5px;
          width: 19px;
      }
 
      .partners {
-         left: 160.5px;
+         left: 165.5px;
          height: 22.5px;
          width: 19px;
      }
 
      .resources-title {
-         left: 198.5px;
+         left: 208.5px;
          width: 22.25px;
      }
 
      .resources {
-         left: 198.5px;
+         left: 208.5px;
          height: 57.5px;
-         width: 26.5px;
+         width: 45px;
      }
 
      .about-title {
-         left: 241.75px;
+         left: 257px;
          width: 13.25px;
      }
 
      .about {
-         left: 241.75px;
+         left: 257px;
          height: 37.5px;
          width: 16.25px;
      }
@@ -2254,11 +2275,12 @@
      .bbb {
          top: 113px;
          left: 15px;
+         width: 60px;
      }
 
      .review {
-         top: 130.5px;
-         left: 15px;
+         top: 135.5px;
+         left: 17px;
          font-size: 6.4px;
          line-height: 12px;
          text-decoration: none;
@@ -2276,25 +2298,27 @@
      }
 
      .privacy {
-         left: 123.5px;
+         left: 132px;
      }
 
      .copyright {
-         top: 120.75px;
+         top: 125px;
          left: 108.25px;
          font-size: 5.6px;
          line-height: 12px;
      }
 
      .soc {
-         top: 114.75px;
+         top: 120px;
      }
 
      .facebook {
          left: 257.25px;
+         width: 10px;
      }
 
      .inst {
          left: 275.75px;
+         width: 10px;
      }
  }
